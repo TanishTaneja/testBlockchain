@@ -1,0 +1,8 @@
+{
+  "testBlockchain_backend": {
+    "ic": "4gldy-4yaaa-aaaap-absya-cai"
+  },
+  "testBlockchain_frontend": {
+    "ic": "4bkfm-raaaa-aaaap-absyq-cai"
+  }
+}
